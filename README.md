@@ -23,4 +23,6 @@ I’m a DevOps Engineer with 3 years of experience in automating, optimizing, an
 🔗 GitHub: [https://github.com/AdilNehal](https://github.com/AdilNehal)  
 🔗 LinkedIn: [https://www.linkedin.com/in/adil-n-9915a2209](https://www.linkedin.com/in/adil-n-9915a2209)  
 
+[![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdilNehal)](https://github.com/AdilNehal/github-readme-stats)
+
 🔹 Open to collaboration and new opportunities!
